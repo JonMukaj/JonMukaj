@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jon Mukaj.</h1>
 <h3 align="left">💻 I am currently studying Computer Engineering (BEng) at Epoka University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonmukaj&label=Profile%20views&color=0e75b6&style=flat" alt="jonmukaj" /> </p>
-
 - 🌱 I’m currently learning **Data Structures and Algorithms in JAVA, Digital Design, MySQL, basics of Docker and Kubernetes.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JonMukaj](https://github.com/JonMukaj)
