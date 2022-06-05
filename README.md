@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jon Mukaj.</h1>
-<h3 align="center">💻 I am currently studying Computer Engineering (BEng) at Epoka University.</h3>
+<h1 align="left">Hi 👋, I'm Jon Mukaj.</h1>
+<h3 align="left">💻 I am currently studying Computer Engineering (BEng) at Epoka University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonmukaj&label=Profile%20views&color=0e75b6&style=flat" alt="jonmukaj" /> </p>
 
@@ -25,5 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonmukaj&show_icons=true&theme=radical&locale=en&layout=compact" alt="jonmukaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonmukaj&show_icons=true&theme=merko&locale=en" alt="jonmukaj" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonmukaj&show_icons=true&theme=radical&locale=en" alt="jonmukaj" /></p>
