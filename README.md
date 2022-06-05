@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mukajj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukajj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jon mukaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jon mukaj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jon-mukaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jon mukaj" height="30" width="40" /></a>
 <a href="https://instagram.com/jon_mukaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jon_mukaj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jon mukaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jon mukaj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/olsihacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jon mukaj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jonmukaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jonmukaj" height="30" width="40" /></a>
 </p>
 
