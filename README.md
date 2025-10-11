@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jon Mukaj.</h1>
-<h3 align="left">💻 I am a Bachelor Graduate in Computer Engineering (BEng) from Epoka University, with a passion for technology and a focus on DevOps.</h3>
-
-- 🌱 I’m currently learning **React, SpringBoot and Cloud Design Patterns**
+<h3 align="left">💻 I am a Master Student in Computer Science at University of Vienna, with a passion for technology and a focus on DevOps.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JonMukaj](https://github.com/JonMukaj)
 
