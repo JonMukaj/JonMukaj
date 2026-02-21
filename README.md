@@ -1,26 +1,21 @@
 <h1 align="left">Hi 👋, I'm Jon Mukaj.</h1>
-<h3 align="left">💻 I am a Master Student in Computer Science at University of Vienna, with a passion for technology and a focus on DevOps.</h3>
+<h3 align="left">💻 I'm a DevOps Engineer with a passion for automating infrastructure and optimizing cloud-native environments.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JonMukaj](https://github.com/JonMukaj)
+### 🔧 Technologies and Tools
 
-- 👀 I’m interested in various fields such as **Backend, DevOps, Machine Learning and AI.**
+* **Cloud Platforms:** Azure, GCP, AWS
+* **Infrastructure as Code:** Terraform, Ansible
+* **Containerization & Orchestration:** Docker, Kubernetes (AKS/GKE/EKS), Helm
+* **Continuous Integration/Deployment:** GitLab CI, ArgoCD (GitOps), Github Actions
+* **Monitoring and Logging:** ELK Stack (Elasticsearch, Logstash, Kibana), Grafana, Prometheus
+* **Scripting and Programming Languages:** Python, Go, Java, JavaScript, Bash, SQL
 
-- 📫 How to reach me **joni.mukaj2011@gmail.com**
+### 🌱 I’m currently learning
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mukajj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukajj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jon-mukaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jon mukaj" height="30" width="40" /></a>
-<a href="https://instagram.com/jon_mukaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jon_mukaj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/user/olsihacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jon mukaj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jonmukaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jonmukaj" height="30" width="40" /></a>
-</p>
+* **MLOps:** Applying DevOps principles to the machine learning lifecycle, focusing on automating model deployment, monitoring, and versioning to bridge the gap between data science and production.
+* **Kubernetes Operators:** Deepening my knowledge of the Operator pattern to package, deploy, and manage complex, stateful applications by extending the Kubernetes API with custom controllers.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📫 How to reach me
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonmukaj&show_icons=true&theme=radical&locale=en&layout=compact" alt="jonmukaj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonmukaj&show_icons=true&theme=radical&locale=en" alt="jonmukaj" /></p>
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-mukaj/)
+* **Email:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joni.mukaj2011@gmail.com)
